@@ -5,7 +5,7 @@ const Home: React.FC = (): JSX.Element => {
     return(
         <>
         <Link to = 'register' >Register</Link><br/>
-        <Link to = 'login'>Login</Link>
+        <Link to = 'login'>Login1</Link>
         </>
     )
 }
